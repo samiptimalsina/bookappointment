@@ -1,5 +1,5 @@
 {
-    "name": "heartland-computer-team/appointment-heartlandcomputer",
+    "name": "samiptimalsina/bookappointment",
     "description": "Appointment booking and administration module for the Heartland Computer Laravel application.",
     "type": "library",
     "license": "proprietary",
