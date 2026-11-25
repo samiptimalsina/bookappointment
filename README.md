@@ -1,6 +1,6 @@
 # Appointment package
 
-Composer package: `heartland-computer-team/appointment-heartlandcomputer`
+Composer package: `samiptimalsina/bookappointment`
 
 This package is designed for the Pratt Pest Control Laravel 10 application. It
 provides public booking routes, admin appointment management, migrations,
@@ -15,7 +15,7 @@ Add the private GitHub repository to the consuming application's `composer.json`
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/heartlandcomputer/appointment-heartlandcomputer"
+            "url": "https://github.com/samiptimalsina/bookappointment"
         }
     ]
 }
@@ -24,7 +24,7 @@ Add the private GitHub repository to the consuming application's `composer.json`
 Then install the package:
 
 ```sh
-composer require heartland-computer-team/appointment-heartlandcomputer:^1.0
+composer require samiptimalsina/bookappointment:^1.0
 ```
 
 GitHub authentication for the private repository must be configured in Composer.
